@@ -1,2 +1,0 @@
-# ActorName
-actor name pls
